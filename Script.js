@@ -26,7 +26,6 @@ else{
 navbar.classList.remove("scrolled");
 
 }
-
 });
 const reveals=document.querySelectorAll(".reveal");
 
